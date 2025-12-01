@@ -32,7 +32,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-teal-400/20 rounded-full blur-3xl"></div>
               <img
-                src="/jane.jpeg"
+                src="/jane.jpg"
                 alt="Jane Onwuegbuosa"
                 className="relative rounded-2xl shadow-2xl w-full max-w-md object-cover"
               />
