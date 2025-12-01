@@ -77,7 +77,7 @@ export default function Contact() {
                 <Briefcase className="text-teal-500" size={24} />
                 <h4 className="text-xl font-semibold">Current Role</h4>
               </div>
-              <p className="text-slate-300 mb-2">Network Test Engineer</p>
+              <p className="text-slate-300 mb-2">Cybersecurity Analyst</p>
               <p className="text-slate-400 text-sm mb-4">Genesys Tech Hub</p>
               <p className="text-slate-300 mb-4">Founder & Program Director</p>
               <p className="text-slate-400 text-sm">Her_Hydro</p>
