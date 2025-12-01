@@ -37,7 +37,7 @@ export default function About() {
             I'm a Geology graduate turned Cybersecurity & Compliance Specialist passionate about building safer digital spaces and making sense of complex systems. My journey has taken me from analyzing rocks to protecting digital infrastructure, and I bring the same analytical rigor to both.
           </p>
           <p className="text-lg text-slate-700 leading-relaxed mb-6">
-            Currently, I work as a Network Test Engineer at Genesys Tech Hub, where I help organizations achieve PCI DSS compliance by assessing security controls, documenting policies, and guiding teams through certification processes.
+            Currently, I work as a Cyber Security Analyst at Genesys Tech Hub, where I help organizations achieve PCI DSS compliance by assessing security controls, documenting policies, and guiding teams through certification processes.
           </p>
           <p className="text-lg text-slate-700 leading-relaxed">
             Beyond cybersecurity, my heart beats loudest for advocacy. I lead Her_Hydro, conducting both online and offline campaigns focused on SDG 6—providing clean water to underserved communities and teaching hygiene and sanitation to create healthier, more dignified lives.
